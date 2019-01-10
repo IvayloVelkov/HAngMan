@@ -1,0 +1,7 @@
+C:\Users\ivaylo.velkov\Source\Repos\HangmanTheGame\HangmanTheGame\bin\Debug\HangmanTheGame.exe.config
+C:\Users\ivaylo.velkov\Source\Repos\HangmanTheGame\HangmanTheGame\bin\Debug\HangmanTheGame.exe
+C:\Users\ivaylo.velkov\Source\Repos\HangmanTheGame\HangmanTheGame\bin\Debug\HangmanTheGame.pdb
+C:\Users\ivaylo.velkov\Source\Repos\HangmanTheGame\HangmanTheGame\obj\Debug\HangmanTheGame.csprojAssemblyReference.cache
+C:\Users\ivaylo.velkov\Source\Repos\HangmanTheGame\HangmanTheGame\obj\Debug\HangmanTheGame.csproj.CoreCompileInputs.cache
+C:\Users\ivaylo.velkov\Source\Repos\HangmanTheGame\HangmanTheGame\obj\Debug\HangmanTheGame.exe
+C:\Users\ivaylo.velkov\Source\Repos\HangmanTheGame\HangmanTheGame\obj\Debug\HangmanTheGame.pdb

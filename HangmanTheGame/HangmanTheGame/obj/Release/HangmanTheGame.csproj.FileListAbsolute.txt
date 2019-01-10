@@ -1,0 +1,6 @@
+C:\Users\ivaylo.velkov\Source\Repos\HangmanTheGame\HangmanTheGame\bin\Release\HangmanTheGame.exe.config
+C:\Users\ivaylo.velkov\Source\Repos\HangmanTheGame\HangmanTheGame\bin\Release\HangmanTheGame.exe
+C:\Users\ivaylo.velkov\Source\Repos\HangmanTheGame\HangmanTheGame\bin\Release\HangmanTheGame.pdb
+C:\Users\ivaylo.velkov\Source\Repos\HangmanTheGame\HangmanTheGame\obj\Release\HangmanTheGame.csproj.CoreCompileInputs.cache
+C:\Users\ivaylo.velkov\Source\Repos\HangmanTheGame\HangmanTheGame\obj\Release\HangmanTheGame.exe
+C:\Users\ivaylo.velkov\Source\Repos\HangmanTheGame\HangmanTheGame\obj\Release\HangmanTheGame.pdb
